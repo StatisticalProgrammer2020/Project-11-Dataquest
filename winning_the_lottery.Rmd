@@ -1,7 +1,6 @@
 ---
 title: "Mobile App for Lottery Addiction"
 author: "Abe Ceasar Perez"
-date: "April 12, 2022"
 output: html_document
 ---
 
@@ -9,7 +8,7 @@ output: html_document
 
 This project aims to create a mobile app designed to help lottery addicts realistically understand their chances of winning. We'll be working as a data analyst at a medical institute to hopefully guide lottery addicts and make them realize that buying too much tickets will do little to improve their chances of winning the lottery.
 
-In addition to the objectives above, we'll be applying the following concepts in this project:
+For this project, the following concepts were applied in order to accomplish the objectives above:
 
 - Estimating Probabilities
 - Probability Rules
